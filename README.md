@@ -6,5 +6,7 @@
 2. Прототипное наследовение, связь `__proto__` и `.prototype`. Поиск свойств в цепочке прототипов.
 3. Связь классов ES 2015 с прототипным наследованием.
 4. Event loop в браузере, `Promise`, `async/await`
-5. 
-   
+
+5. TypeScript: структурная типизация, алгебраические типы данных, type guards 
+6. TypeScript: generics и mapped types
+7. TypeScript: generics и conditional types   
